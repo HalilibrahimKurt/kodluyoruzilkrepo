@@ -18,6 +18,9 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
+## Image
+
+![Proje](kodluyoruzIlkRepo.jpg)
 
 ## Contributing
 
