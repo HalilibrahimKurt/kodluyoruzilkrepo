@@ -20,7 +20,7 @@ code .
 ```
 ## Image
 
-![Proje](kodluyoruzIlkRepo.jpg)
+![Proje](img/kodluyoruzIlkRepo.jpg)
 
 ## Contributing
 
